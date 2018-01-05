@@ -1,20 +1,20 @@
-## 前端开发-免费试课项目
+# 前端开发-免费试课项目
 
-### 简介
-
-...
-
-
-
-### 目的
+## 简介
 
 ...
 
 
 
-### 如何提供反馈（Issue）
+## 目的
 
-#### 创建Issue
+...
+
+
+
+## 如何提供反馈（Issue）
+
+### 创建Issue
 
 打开仓库链接：https://github.com/udacity/FEND-Beta-Test-zh/issues ，选择 `Issues` 面板新建 `issue` ：![new issue](beta-test/new-issue.png)
 
@@ -48,6 +48,6 @@
 
 
 
-#### 反馈模板
+### 反馈模板
 
 ![temp](beta-test/temp.png)
