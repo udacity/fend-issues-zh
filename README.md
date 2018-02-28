@@ -2,7 +2,7 @@
 
 ### 创建Issue
 
-打开仓库链接：https://github.com/udacity/FEND-Beta-Test-zh/issues ，选择 `Issues` 面板新建 `issue` ：![new issue](beta-test/new-issue.png)
+打开仓库链接：https://github.com/udacity/fend-issues-zh/issues ，选择 `Issues` 面板新建 `issue` ：![new issue](beta-test/new-issue.png)
 
 
 
